@@ -1,7 +1,7 @@
 --[[
-Obfuscatored by Zolo Obfuscator
-discord: unknown
-2025 Zolo Obfuscator®
+Obfuscatored by Dev
+discord: https://discord.gg/vbHVdNsq9n
+2025 Omega Hub®
 ]]
 
-loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/2c936f061e1dc4ea1c8a95339a6054b1"))()
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/21f76faa9a86399ea052a507f16b41bc"))()
