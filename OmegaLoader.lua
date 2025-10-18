@@ -1,5 +1,5 @@
 --[[
-Obfuscatored by Jonathan
+Obfuscatored by 228
 discord: https://discord.gg/vbHVdNsq9n
 2025 Omega Hub®
 ]]
